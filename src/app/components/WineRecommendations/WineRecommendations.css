@@ -1,0 +1,17 @@
+/* WineRecommendations.css */
+.wine-recommendations {
+    /* Add any container styles you want for the wine recommendations */
+  }
+  
+  .wine-item {
+
+        font-weight: bold;
+
+  }
+  
+
+  
+  .wine-divider {
+    border: 1px solid #ccc; /* Grey line between wine recommendations */
+    margin: 10px 0; /* Adjust the margin as needed */
+  }

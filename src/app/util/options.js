@@ -1,0 +1,30 @@
+const options = [
+    { id: 1, label: 'Apple', value: 'apple' },
+    { id: 2, label: 'Banana', value: 'banana' },
+    { id: 3, label: 'Orange', value: 'orange' },
+    { id: 4, label: 'Strawberry', value: 'strawberry' },
+    { id: 5, label: 'Pineapple', value: 'pineapple' },
+    { id: 6, label: 'Mango', value: 'mango' },
+    { id: 7, label: 'Grapes', value: 'grapes' },
+    { id: 8, label: 'Watermelon', value: 'watermelon' },
+    { id: 9, label: 'Cherry', value: 'cherry' },
+    { id: 10, label: 'Blueberry', value: 'blueberry' },
+    { id: 11, label: 'Raspberry', value: 'raspberry' },
+    { id: 12, label: 'Kiwi', value: 'kiwi' },
+    { id: 13, label: 'Lemon', value: 'lemon' },
+    { id: 14, label: 'Mango', value: 'mango' },
+    { id: 15, label: 'Peach', value: 'peach' },
+    { id: 16, label: 'Pear', value: 'pear' },
+    { id: 17, label: 'Avocado', value: 'avocado' },
+    { id: 18, label: 'Pomegranate', value: 'pomegranate' },
+    { id: 19, label: 'Cinnamon', value: 'cinnamon' },
+    { id: 20, label: 'Cumin', value: 'cumin' },
+    { id: 21, label: 'Paprika', value: 'paprika' },
+    { id: 22, label: 'Ginger', value: 'ginger' },
+    { id: 23, label: 'Pepper', value: 'pepper' },
+    { id: 24, label: 'Sweet', value: 'sweet' },
+    { id: 25, label: 'Sour', value: 'sour' },
+  ];
+  
+  
+  export default options;

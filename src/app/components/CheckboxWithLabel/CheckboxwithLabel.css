@@ -1,0 +1,10 @@
+/* CheckboxWithLabel.css */
+.checkbox-container {
+    display: block; /* Change from default "inline" to "block" */
+    margin-bottom: 10px; /* Add some spacing between each checkbox */
+  }
+  
+  .checkbox-label {
+    margin-left: 8px; /* Add some spacing between the checkbox and the label */
+    padding-top: 3px; /* Add padding above the label to separate it from the checkbox */
+  }

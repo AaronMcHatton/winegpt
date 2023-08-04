@@ -1,0 +1,13 @@
+/* ButtonScreen.css */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make the container take up the full height of the viewport */
+  }
+  
+  .centered-button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
